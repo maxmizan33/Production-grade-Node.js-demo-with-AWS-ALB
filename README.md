@@ -55,7 +55,6 @@ It is designed as a **portfolio/demo project** to showcase **DevOps/Cloud skills
 │ private subnet │
 └────────────┘
 
-Optional: 📦 S3 bucket for static assets or backups, connected to EC2 or Node.js app
 
 
 **💡 Side Note:**  
